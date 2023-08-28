@@ -1,0 +1,59 @@
+.navbar {
+    min-height: 80px; 
+    
+}
+
+#navtext{
+    display: flex;
+    flex-direction: row;
+    width: 600px;
+    justify-content: space-around;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.navlogo{
+    
+    height: 100px;
+    margin-left: 20px;
+}
+.welcome{
+    text-align: center;
+    padding: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #4C4260;
+}
+#cover{
+    background-color:#4C4260;
+    margin-bottom: 10px;
+}
+#backcolor{
+    background-color: #AFA8BA;
+    border: 5px solid ;
+    font-family: 'Ceviche One', cursive;
+    
+}
+#backcolor h1{
+    font-size: 90px;
+}
+#crdbdy{
+    background-color:#AFA8BA ;
+}
+.foot{
+    background-color:#AFA8BA ;
+    border: 3px solid ;
+
+}
+.foot li{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#spnow{
+    width: 1800px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    border: 2px solid ;
+}
+
+
